@@ -1,0 +1,6 @@
+1,2,0,kitap oku
+2,1,1,java áalçü
+3,1,1,mantçk áalçü
+4,1,0,elektrik devresi áalçü
+5,2,0,spora git
+6,1,1,sabah yaptçßçn rutini yap
